@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
-  "downloadUrl": "https://drive.usercontent.google.com/download?id=1e7VZjv9YSbKi-5T6R9Y6h2YuWcbJHb5b&export=download&authuser=0",
+  "downloadUrl": "https://drive.usercontent.google.com/download?id=1ISgGmyDMyDL9weVzZ3dcHPw2DGMIl0z3&export=download&authuser=0",
   "notes": "### NOVIDADES\n• Sistema de atualização automática — agora o app avisa quando sai versão nova\n• Minimizar para bandeja — o app some pra perto do relógio sem fechar\n• Notificação de novos programas na inicialização — avisa se algo se adicionar ao boot do Windows\n• Tela de patch notes bonita com formatação\n\n### CORREÇÕES\n• MenuShowDelay agora aplica de verdade no registro\n• Ícone do app corrigido no ALT+TAB\n• Inicialização do jogo pela biblioteca (Steam e Epic) agora usa protocolos oficiais\n• Monitoramento do jogo só começa quando ele realmente abre\n\n### MELHORIAS\n• Sistema de atualização verifica silenciosamente ao abrir o app\n• Botão de minimizar para bandeja adicionado na barra de título\n• Notificações nativas do Windows para eventos importantes"
 }
